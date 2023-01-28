@@ -1,8 +1,9 @@
 <img src = "https://media3.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=ecf05e47aif4drtdptsmyqbtr0xdr8e6pmyp6ijhsdrt40bh&rid=giphy.gif&ct=g" align="right" width="300" height="250">
 
 ### Hi there, I'm Enes. :blush:
+### I have been working and carrying out project towards becoming a data scientist.
 
-## Python Developer | Data Scientist
+## Data Analyst | Python & SQL Developer | SAP BW Specialist
 
 <font color="pink">Coffee is how  I keep up with '<
 code />' </font>
