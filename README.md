@@ -41,9 +41,9 @@ code />' </font>
 
 
 
-[Linkedin] : https://www.linkedin.com/in/enessasmazz
-[Twitter] : https://twitter.com/Enes_Sasmaz
-[Instagram] : https://www.instagram.com/enessasmazz
+[Linkedin]: https://www.linkedin.com/in/enessasmazz
+[Twitter]: https://twitter.com/Enes_Sasmaz
+[Instagram]: https://www.instagram.com/enessasmazz
 
 
 
